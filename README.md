@@ -15,4 +15,4 @@ Model has 8141840 parameters.
 `python train.py --epoch 1500`
 
 ## Reference
-[acburigo/CapsNet](https://github.com/acburigo/CapsNet/edit/master/README.md)
+[acburigo/CapsNet](https://github.com/acburigo/CapsNet)
