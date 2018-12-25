@@ -9,5 +9,8 @@ Although the paper reports an accuracy of *99.75%*, the maximum accuracy achieve
 ### Number of Parameters
 Model has 8141840 parameters.
 
-### Reference
+## Usage
+`python train.py --epoch 500`
+
+## Reference
 [acburigo/CapsNet](https://github.com/acburigo/CapsNet/edit/master/README.md)
