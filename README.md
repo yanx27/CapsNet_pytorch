@@ -3,7 +3,7 @@ This is a [pytorch](http://pytorch.org/) implementation of CapsNet, described in
 
 ![](image/capsulearch.png)
 ## Results on MNIST
-
+### Loss
 ![](image/total_result.png)
 ### Accuracy
 Although the paper reports an accuracy of *99.75%*, the maximum accuracy achieved by this implementation was **99.68%**.
