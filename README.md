@@ -10,7 +10,7 @@ Although the paper reports an accuracy of *99.75%*, the maximum accuracy achieve
 Model has 8141840 parameters.
 
 ## Usage
-`python train.py --epoch 500`
+`python train.py --epoch 1500`
 
 ## Reference
 [acburigo/CapsNet](https://github.com/acburigo/CapsNet/edit/master/README.md)
